@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+	<AuthorInfo>
+		<Name>Andrew</Name>
+		<Age>2*</Age>
+		<Pets>0</Pets>
+		<Salary>Future salary w/o grade ~$400</Salary>
+	</AuthorInfo>
+</root>
