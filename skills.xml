@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+	<Skills>
+		<Personal>
+			<HardSkills>
+				<Postman>true</Postman>
+				<SQL>true</SQL>
+				<TestingTheory>
+					<Web>true</Web>
+					<Mobile>not enough</Mobile>
+				</TestingTheory>
+				<Devtools>true</Devtools>
+				<PacketSniffing>
+					<Wireshark>true</Wireshark>
+					<Charles>true</Charles>
+				</PacketSniffing>
+				<Git-Gitbash-Terminal>true</Git-Gitbash-Terminal>
+				<PythonBasics>true</PythonBasics>
+			</HardSkills>
+		</Personal>
+	</Skills>
+</root>
