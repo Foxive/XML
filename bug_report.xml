@@ -1,1 +1,16 @@
-change
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+	<BugReportScheme>
+		<Title>Short info about defect</Title>
+		<ID>Unique number</ID>
+		<Description>Detailed info about defect</Description>
+		<Steps>Explicit procedure for manual reproduction of the problem</Steps>
+		<ExpectedResult>Describes how the software is supposed to function in the given scenario</ExpectedResult>
+		<ActualResult>Describes what the bug is actually doing and how it is a distortion of the expected result</ActualResult>
+		<Environment>Info about device type/OS/version/locale/connection_info/rate of reproduction</Environment>
+		<Comment-VisualProof>Attached to clearly depict the occurrence of the bug</Comment-VisualProof>
+		<Additional>
+			<BugSeverity-Priority>Bug must be assigned a level of severity and corresponding priority. This reveals the extent to which the bug affects the system, and in turn, how quickly it needs to be fixed</BugSeverity-Priority>
+		</Additional>
+	</BugReportScheme>
+</root>
